@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad53500a-0fa9-4173-b898-29d3f2c09c21" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/view/LogInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/LogInController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/view/LogIn.fxml" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\dobre\OneDrive\SEP2-BBB\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z2S46wjaWQDrazQ1HjwCR7tV3M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/javafx-sdk-13.0.1/lib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="viewModel" />
+      <recent name="view" />
+      <recent name="ViewModel" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dobre\OneDrive\SEP2-BBB\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dobre\OneDrive\SEP2-BBB\src\view" />
+      <recent name="C:\Users\dobre\OneDrive\SEP2-BBB\src\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyApplication" />
+      <module name="SEP2-BBB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad53500a-0fa9-4173-b898-29d3f2c09c21" name="Default Changelist" comment="" />
+      <created>1584035501831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584035501831</updated>
+    </task>
+    <task id="LOCAL-00001" summary="/">
+      <created>1584582050913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584582050913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="/" />
+    <option name="LAST_COMMIT_MESSAGE" value="/" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584035584956">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584035584956" />
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1584565579706">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584565579706" />
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584566455886">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="332" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584566455886" />
+    <state x="867" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1584582320938">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="867" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582320938" />
+    <state x="855" y="187" width="654" height="737" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1584569472741">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="855" y="187" width="654" height="737" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584569472741" />
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584574527150">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584574527150" />
+    <state x="678" y="66" key="CommitChangelistDialog2" timestamp="1584582050318">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="678" y="66" key="CommitChangelistDialog2/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582050318" />
+    <state x="729" y="298" key="FileChooserDialogImpl" timestamp="1584582349301">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="729" y="298" key="FileChooserDialogImpl/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582349301" />
+    <state x="841" y="451" key="Github.CreateGistDialog" timestamp="1584581455363">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="841" y="451" key="Github.CreateGistDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584581455363" />
+    <state x="893" y="451" key="Github.ShareDialog" timestamp="1584581924797">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="893" y="451" key="Github.ShareDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584581924797" />
+    <state x="825" y="179" key="Github.UntrackedFilesDialog" timestamp="1584581933541">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="825" y="179" key="Github.UntrackedFilesDialog/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584581933541" />
+    <state width="2005" height="174" key="GridCell.Tab.0.bottom" timestamp="1584582296906">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="174" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582296906" />
+    <state width="2005" height="174" key="GridCell.Tab.0.center" timestamp="1584582296906">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="174" key="GridCell.Tab.0.center/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582296906" />
+    <state width="2005" height="174" key="GridCell.Tab.0.left" timestamp="1584582296906">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="174" key="GridCell.Tab.0.left/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582296906" />
+    <state width="2005" height="174" key="GridCell.Tab.0.right" timestamp="1584582296906">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="174" key="GridCell.Tab.0.right/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582296906" />
+    <state width="2005" height="354" key="GridCell.Tab.1.bottom" timestamp="1584569865207">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="354" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584569865207" />
+    <state width="2005" height="354" key="GridCell.Tab.1.center" timestamp="1584569865206">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="354" key="GridCell.Tab.1.center/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584569865206" />
+    <state width="2005" height="354" key="GridCell.Tab.1.left" timestamp="1584569865206">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="354" key="GridCell.Tab.1.left/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584569865206" />
+    <state width="2005" height="354" key="GridCell.Tab.1.right" timestamp="1584569865207">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="354" key="GridCell.Tab.1.right/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584569865207" />
+    <state x="505" y="131" key="SettingsEditor" timestamp="1584582351942">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="131" key="SettingsEditor/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584582351942" />
+    <state x="833" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584581858361">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="833" y="468" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584581858361" />
+    <state x="492" y="66" width="1096" height="849" key="dock-window-1" timestamp="1584567967620">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="492" y="66" width="1096" height="849" key="dock-window-1/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584567967620" />
+    <state x="465" y="131" key="new project wizard" timestamp="1584345908854">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="465" y="131" key="new project wizard/0.0.2048.1112/2560.-339.1080.1880/-1080.-330.1080.1880@0.0.2048.1112" timestamp="1584345908854" />
+  </component>
+</project>
