@@ -17,6 +17,7 @@ public class LogInController
 
     public LogInController()
     {
+
     }
 
     public void init(ViewHandler viewHandler, LogInViewModel viewModel, Region root)
